@@ -3,7 +3,8 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
-As I just started my carreer change in IT, I pay interest to a wide variety of topics such as IA, cybersecurity, web, algorytmic programming.
+
+As I just started my career change in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and algorithmic programming
 
 ## Current Skills
 
