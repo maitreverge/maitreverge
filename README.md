@@ -24,7 +24,7 @@ As I just started my career change in IT, I am interested in a wide variety of t
 
 <br>
 
-> Python : I just started CS50 Python lectures, total newbie but getting better at it !
+> Python : I just started CS50 Python lectures, total newbie, getting better at it !
 > 
 > Programing languages : Still learning and making a solid fundation in C.
 
@@ -35,10 +35,11 @@ As I just started my career change in IT, I am interested in a wide variety of t
 ## My 42 Projects :
 
 <div align="center">
-
-<a href="https://github.com/maitreverge/libft">![libft_pic](https://github.com/maitreverge/libft/img/libft.jpeg)</a>
-
+  <a href="https://github.com/maitreverge/libft">
+    <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
+  </a>
 </div>
+
 
 🧑‍💻 [More infos of those projects, regulary updated](https://github.com/maitreverge/42_projects)
 
