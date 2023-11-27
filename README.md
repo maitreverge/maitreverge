@@ -6,7 +6,7 @@ I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
 
 As I just started my career change in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and algorithmic programming
 
-## Current Skills
+## 🤓 Current Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
@@ -18,7 +18,7 @@ As I just started my career change in IT, I am interested in a wide variety of t
 
 </br>
 
-## Actual learning
+## 🧠 Actual learning
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
@@ -29,6 +29,21 @@ As I just started my career change in IT, I am interested in a wide variety of t
 > Programing languages : Still learning and making a solid fundation in C.
 
 </br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## My 42 Projects :
+
+<div align="center">
+
+<a href="https://github.com/maitreverge/libft">![libft_pic](https://github.com/maitreverge/libft/img/libft.jpeg)</a>
+
+</div>
+
+🧑‍💻 [More infos of those projects, regulary updated](https://github.com/maitreverge/42_projects)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Connect with Me
 
