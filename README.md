@@ -39,7 +39,11 @@ As I just started my career change in IT, I am interested in a wide variety of t
     <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
   </a>
     <a href="https://github.com/maitreverge/ft_printf">
-    <img src="https://github.com/maitreverge/ft_printf/blob/master/img/ft_printf.png" alt="libft" width="30%">
+    <img src="https://github.com/maitreverge/ft_printf/blob/master/img/ft_printf.png" alt="printf" width="30%">
+  </a>
+    </a>
+    <a href="https://github.com/maitreverge/get_next_line">
+    <img src="https://github.com/maitreverge/get_next_line/blob/master/img/gnl.png" alt="gnl" width="30%">
   </a>
 </div>
 
