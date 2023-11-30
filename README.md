@@ -4,7 +4,7 @@
 
 I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
 
-As I just started my career change in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and algorithmic programming
+As I just started my career shift in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and algorithmic programming
 
 ## 🤓 Current Skills
 
