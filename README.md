@@ -45,6 +45,10 @@ As I just started my career change in IT, I am interested in a wide variety of t
     <a href="https://github.com/maitreverge/get_next_line">
     <img src="https://github.com/maitreverge/get_next_line/blob/master/img/gnl.png" alt="gnl" width="30%">
   </a>
+      </a>
+    <a href="https://github.com/maitreverge/pipex">
+    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="gnl" width="30%">
+  </a>
 </div>
 
 
