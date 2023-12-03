@@ -4,7 +4,11 @@
 
 I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
 
-As I just started my career shift in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and algorithmic programming
+<div align=center>
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clppvo4x5190601t6rwfyn6u9/stats?cursusId=21&coalitionId=318" alt="flverge's 42 stats" /></a>
+</div>
+
+As I just started my career shift in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and pure algorithmic programming.
 
 ## 🤓 Current Skills
 
@@ -12,9 +16,9 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 <br>
 
-> IDEs : I am confortable using VIM, and recently changed for VS Code, so still learning it !
+> IDEs : I am confortable using VIM. I recently changed for VS Code, still learning it !
 > 
-> Programing languages : Still learning and making a solid fundation in C.
+> Programing languages : Building a solid fundation in C.
 
 </br>
 
@@ -24,9 +28,9 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 <br>
 
-> Python : I just started CS50 Python lectures, total newbie, getting better at it !
+> Python : I just started CS50 lectures, total novice !
 > 
-> Programing languages : Still learning and making a solid fundation in C.
+> Programing languages : Still learning and making a solid fundation in C at 42.
 
 </br>
 
@@ -68,19 +72,3 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 - 🌶️ [My OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Feel free to explore my repositories and connect with me! 😊
-
-
-<!--
-**maitreverge/maitreverge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
