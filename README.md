@@ -57,13 +57,13 @@ As I just started my career shift in IT, I am interested in a wide variety of to
     <img src="https://github.com/maitreverge/get_next_line/blob/master/img/gnl.png" alt="gnl" width="30%">
   </a>
       </a>
-    <a href="https://github.com/maitreverge/pipex">
-    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="gnl" width="30%">
+    <a href="https://github.com/maitreverge/fract-ol">
+    <img src="https://github.com/maitreverge/fract-ol/blob/master/img/fractol.png" alt="fractol" width="30%">
   </a>
     </a>
       </a>
-    <a href="https://github.com/maitreverge/fract-ol">
-    <img src="https://github.com/maitreverge/fract-ol/blob/master/img/fractol.png" alt="gnl" width="30%">
+    <a href="https://github.com/maitreverge/pipex">
+    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="pipex" width="30%">
   </a>
 </div>
 
