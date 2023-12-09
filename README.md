@@ -6,7 +6,6 @@ I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
 
 
 
-
 <div align=center>
 <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clppvo4x5190601t6rwfyn6u9/stats?cursusId=21&coalitionId=318" alt="flverge's 42 stats" /></a>
 </div>
