@@ -70,7 +70,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
   </a>
       </a>
     <a href="https://github.com/maitreverge/minishell">
-    <img src="https://github.com/maitreverge/push_swap/blob/master/img/minishell.png" alt="minishell" width="30%">
+    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
   </a>
 </div>
 
