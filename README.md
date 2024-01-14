@@ -22,21 +22,23 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 <br>
 
-> IDEs : I am confortable using VIM. I recently changed for VS Code, still learning it !
+> IDEs : I am confortable using Vim and Visual Studio Code.
 > 
 > Programing languages : Building a solid fundation in C.
+>
+> Others : I am comfortable using MarkDown, and I've been an active Ableton user for several years.
 
 </br>
 
 ## 🧠 Actual learning
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 <br>
 
-> Python : I just started CS50 lectures, total novice !
+> Programing languages : Still making a solid fundation in C at 42. Getting better every day at Python.
 > 
-> Programing languages : Still learning and making a solid fundation in C at 42.
+> Git : Becoming better at advanced Git commands (reflog, cherry-picking, rebase, submodules)
 
 </br>
 
@@ -75,7 +77,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 </div>
 
 
-🧑‍💻 [More infos of those projects, regulary updated](https://github.com/maitreverge/42_projects)
+🚀 [More infos of those projects, regulary updated](https://github.com/maitreverge/42_projects)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
