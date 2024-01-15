@@ -84,7 +84,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## Connect with Me
 
-- 🧑‍💻 [LinkedIn, not available yet](your-linkedin-profile)
+- 🧑‍💻 [LinkedIn, not available yet]((https://github.com/maitreverge))
 - 🌶️ [My OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Feel free to explore my repositories and connect with me! 😊
