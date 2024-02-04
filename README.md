@@ -18,7 +18,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🤓 Current Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,vscode,vim,bash,markdown,ableton)](https://skillicons.dev)
 
 <br>
 
@@ -32,7 +32,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual learning
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,git)](https://skillicons.dev)
 
 <br>
 
