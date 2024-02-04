@@ -44,7 +44,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My 42 Projects :
+## My Common Core 42 Projects :
 
 <div align="center">
   <a href="https://github.com/maitreverge/libft">
@@ -74,21 +74,22 @@ As I just started my career shift in IT, I am interested in a wide variety of to
     <a href="https://github.com/maitreverge/minishell">
     <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
   </a>
-      </a>
-    <a href="https://github.com/maitreverge/minishell_101">
-    <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%">
-  </a>
 </div>
 
+🚀 [**More infos of those projects, regulary updated**](https://github.com/maitreverge/42_projects)
 
-🚀 [More infos of those projects, regulary updated](https://github.com/maitreverge/42_projects)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## My related 42 project :
+
+*tba*
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Connect with Me
 
-- 🧑‍💻 [LinkedIn, not available yet]((https://github.com/maitreverge))
-- 🌶️ [My OnlyFans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🧑‍💻 [**LinkedIn, not available yet**]((https://github.com/maitreverge))
+- 🌶️ [**My OnlyFans**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Feel free to explore my repositories and connect with me! 😊
