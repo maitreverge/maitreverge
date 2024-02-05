@@ -82,7 +82,11 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## My related 42 project :
 
-*tba*
+<div align="center">
+  <a href="https://github.com/maitreverge/minishell_101">
+    <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%">
+  </a>
+</div>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
