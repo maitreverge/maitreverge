@@ -16,7 +16,7 @@ I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
 
 As I just started my career shift in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, and pure algorithmic programming.
 
-## 🤓 Current Skills
+## 🤓 Current Skills && Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,git,vscode,vim,bash,markdown,ableton)](https://skillicons.dev)
 
