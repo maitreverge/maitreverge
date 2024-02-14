@@ -30,7 +30,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 </br>
 
-## 🧠 Actual learning
+## 🧠 Actual Learning
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,git)](https://skillicons.dev)
 
