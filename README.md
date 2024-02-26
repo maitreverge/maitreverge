@@ -22,11 +22,11 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 <br>
 
-> IDEs : I am confortable using Vim and Visual Studio Code.
+> IDEs : I am confortable with both Vim and VS Code.
 > 
 > Programing languages : Building a solid fundation in C.
 >
-> Others : I am comfortable using MarkDown, and I've been an active Ableton user for several years.
+> Others : I am getting by with MarkDown, and I've been an Ableton user for several years.
 
 </br>
 
@@ -36,9 +36,9 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 <br>
 
-> Programing languages : Still making a solid fundation in C at 42. Getting better every day at Python.
+> Programing languages : Still making a solid fundation in C at 42. Getting better every day at Python with CS50.
 > 
-> Git : Becoming better at advanced Git commands (reflog, cherry-picking, rebase, submodules)
+> Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
 
 </br>
 
