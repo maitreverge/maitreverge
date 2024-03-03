@@ -18,16 +18,25 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🤓 Current Skills && Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,git,vscode,vim,bash,markdown,ableton)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 <br>
 
-> IDEs : I am confortable with both Vim and VS Code.
-> 
 > Programing languages : Building a solid fundation in C.
->
-> Others : I am getting by with MarkDown, and I've been an Ableton user for several years.
+> 
+</br>
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git)](https://skillicons.dev)
+<br>
+
+> Tools && IDEs : VS Code as main IDE, at ease using VIM.
+> 
+> Git : Confortable working with branches.
+</br>
+
+[![My Skills](https://skillicons.dev/icons?i=markdown,ableton)](https://skillicons.dev)
+<br>
+
+> Others : I am getting by with MarkDown, and I've been an Ableton user for several years.
 </br>
 
 ## 🧠 Actual Learning
