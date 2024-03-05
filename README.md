@@ -41,13 +41,15 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,clion)](https://skillicons.dev)
 
 <br>
 
-> Programing languages : Still making a solid fundation in C at 42. Getting better every day at Python with CS50.
+> Programing languages : Still making a solid fundation in C at 42. Learning Python and C++ basics.
 > 
 > Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
+>
+> IDE : Learning CLion.
 
 </br>
 
