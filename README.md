@@ -1,4 +1,4 @@
-# Hello, I'm Florian 👋
+<img src="./hello_world.gif"/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
