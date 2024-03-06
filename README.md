@@ -22,7 +22,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 <br>
 
-> Programing languages : Building a solid fundation in C.
+> Programing languages : Getting by with C.
 > 
 </br>
 
@@ -42,15 +42,15 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,clion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,clion)](https://skillicons.dev)
 
 <br>
 
-> Programing languages : Still making a solid fundation in C at 42. Learning Python and C++ basics.
+> Programing languages : Learning Python and C++ basics.
 > 
 > Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
 >
-> IDE : Learning CLion.
+> IDE : Learning CLion and JetBrains ecosystem.
 
 </br>
 
