@@ -1,5 +1,7 @@
 # Hello, I'm Florian 👋
 
+<a href="https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ" target="_blank"><img src="https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ.svg" /></a>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 I am a computer science student at [42 Perpignan](https://42perpignan.fr/).
