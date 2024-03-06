@@ -1,6 +1,6 @@
 # Hello, I'm Florian 👋
 
-<a href="https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ" target="_blank"><img src="https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ.svg" /></a>
+[![asciicast](https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ.svg)](https://asciinema.org/a/5y7zQe80FO3zkyX6HvmoIpgSJ)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
