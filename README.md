@@ -42,7 +42,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,clion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,clion,pycharm)](https://skillicons.dev)
 
 <br>
 
@@ -50,7 +50,7 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 > 
 > Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
 >
-> IDE : Learning CLion and JetBrains ecosystem.
+> IDE : Learning CLion, PyCharm and JetBrains ecosystem.
 
 </br>
 
