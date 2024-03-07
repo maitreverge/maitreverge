@@ -3,7 +3,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-I am a french computer science student at [42 Perpignan](https://42perpignan.fr/).
+I'm a Computer Science student at [42 Perpignan](https://42perpignan.fr/).
 
 
 
@@ -55,7 +55,8 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 </br>
 
 ## 🧑‍🎓 IT Certificates
-- [HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
+- [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
+- [🏗️ (ongoing) HarvardX CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
