@@ -42,19 +42,22 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,sqlite)](https://skillicons.dev)
 
 <br>
 
 > Programing languages : Learning Python and C++ basics.
 > 
 > Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
+>
+> SQL : Developping basic Databases knowledge with SQLite.
 
 </br>
 
 ## 🧑‍🎓 IT Certificates
 - [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
 - [🏗️ (ongoing) HarvardX CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+- [🏗️ (ongoing) HarvardX CS50SQL: Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
