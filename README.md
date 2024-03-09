@@ -42,15 +42,13 @@ As I just started my career shift in IT, I am interested in a wide variety of to
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,clion,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,git)](https://skillicons.dev)
 
 <br>
 
 > Programing languages : Learning Python and C++ basics.
 > 
 > Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
->
-> IDE : Learning CLion, PyCharm and JetBrains ecosystem.
 
 </br>
 
