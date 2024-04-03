@@ -3,7 +3,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-I'm a Computer Science student at [42 Perpignan](https://42perpignan.fr/).
+I'm a Computer Science student at [42](https://42perpignan.fr/).
 
 
 
