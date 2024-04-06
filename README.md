@@ -94,8 +94,11 @@ As I just started my career shift in IT, I am interested in a wide variety of to
   </a>
   </a>
     <a href="https://github.com/maitreverge/philosophers">
-    <img src="https://github.com/maitreverge/philosophers/blob/master/img/philo.png" alt="minishell" width="30%">
+    <img src="https://github.com/maitreverge/philosophers/blob/master/img/philo.png" alt="philosophers" width="30%">
   </a>
+  </a>
+    <a href="https://github.com/maitreverge/cub3d">
+    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
 </div>
 
 🚀 [**More infos of those projects, regulary updated**](https://github.com/maitreverge/42_projects)
