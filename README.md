@@ -11,7 +11,10 @@ I'm a Computer Science student at 42.
 
 
 
-As I just started my career shift in IT, I am interested in a wide variety of topics such as AI, cybersecurity, web development, database structures and algorithms.
+I am interested in a variety of topics, and I am building knowledge and skills on : 
+- AI
+- Web development,
+- Database Structures and Algorithms.
 
 ## 🤓 Current Skills && Tools
 
