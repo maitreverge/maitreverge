@@ -11,7 +11,7 @@ I'm a Computer Science student at 42.
 
 
 
-I am interested in a variety of topics, and I am building knowledge and skills on : 
+I am interested in a variety of topics, and building skills on : 
 - AI
 - Web development,
 - Database Structures and Algorithms.
