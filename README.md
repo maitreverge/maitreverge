@@ -1,4 +1,4 @@
-# Hello, I'm Florian 👋
+# Hello, I'm Florian  <img src="https://github.com/maitreverge/maitreverge/blob/master/assets/Hi.gif" width="29px">
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
