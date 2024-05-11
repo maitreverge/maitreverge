@@ -61,43 +61,19 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My Common Core 42 Projects :
+## My Mains Common Core 42 Projects :
 
 <div align="center">
   <a href="https://github.com/maitreverge/libft">
     <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
   </a>
-  <a href="https://github.com/maitreverge/ft_printf">
-    <img src="https://github.com/maitreverge/ft_printf/blob/master/img/ft_printf.png" alt="printf" width="30%">
-  </a>
-    </a>
-  <a href="https://github.com/maitreverge/get_next_line">
-    <img src="https://github.com/maitreverge/get_next_line/blob/master/img/gnl.png" alt="gnl" width="30%">
-  </a>
-      </a>
-  <a href="https://github.com/maitreverge/fract-ol">
-    <img src="https://github.com/maitreverge/fract-ol/blob/master/img/fractol.png" alt="fractol" width="30%">
-  </a>
-    </a>
-      </a>
   <a href="https://github.com/maitreverge/pipex">
     <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="pipex" width="30%">
-  </a>
-      </a>
-    <a href="https://github.com/maitreverge/push_swap">
-    <img src="https://github.com/maitreverge/push_swap/blob/master/img/push_swap.png" alt="push_swap" width="30%">
   </a>
       </a>
     <a href="https://github.com/maitreverge/minishell">
     <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
   </a>
-  </a>
-    <a href="https://github.com/maitreverge/philosophers">
-    <img src="https://github.com/maitreverge/philosophers/blob/master/img/philo.png" alt="philosophers" width="30%">
-  </a>
-  </a>
-    <a href="https://github.com/maitreverge/cub3d">
-    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
 </div>
 
 🚀 [**More infos of those projects, regulary updated**](https://github.com/maitreverge/42_projects)
