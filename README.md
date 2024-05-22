@@ -30,7 +30,7 @@ I am interested in a variety of topics, and building skills on :
 
 > Tools && IDEs : VS Code as main IDE, at ease using VIM.
 > 
-> Git : Confortable working with branches.
+> Git : Confortable using basics and advanced commands..
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=markdown,ableton)](https://skillicons.dev)
@@ -41,13 +41,11 @@ I am interested in a variety of topics, and building skills on :
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,sqlite)](https://skillicons.dev)
 
 <br>
 
 > Programing languages : Learning Python and C++ basics.
-> 
-> Git : Mastering advanced Git commands (reflog, cherry-picking, rebase, submodules)
 >
 > SQL : Developping basic Databases knowledge with SQLite.
 
