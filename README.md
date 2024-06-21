@@ -62,11 +62,11 @@ I am interested in a variety of topics, and building skills on :
 ## My Mains Common Core 42 Projects :
 
 <div align="center">
-  <a href="https://github.com/maitreverge/libft">
-    <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
-  </a>
- <a href="https://github.com/maitreverge/minishell">
+  <a href="https://github.com/maitreverge/minishell">
     <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
+  </a>
+ <a href="https://github.com/maitreverge/push_swap">
+    <img src="https://github.com/maitreverge/push_swap/blob/master/img/push_swap.png" alt="push_swap" width="30%">
   </a>
       </a>
     <a href="https://github.com/maitreverge/cub3d">
