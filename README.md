@@ -65,12 +65,12 @@ I am interested in a variety of topics, and building skills on :
   <a href="https://github.com/maitreverge/libft">
     <img src="https://github.com/maitreverge/libft/blob/master/img/libft.png" alt="libft" width="30%">
   </a>
-  <a href="https://github.com/maitreverge/pipex">
-    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="pipex" width="30%">
+ <a href="https://github.com/maitreverge/minishell">
+    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
   </a>
       </a>
-    <a href="https://github.com/maitreverge/minishell">
-    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
+    <a href="https://github.com/maitreverge/cub3d">
+    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
   </a>
 </div>
 
