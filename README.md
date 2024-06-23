@@ -73,8 +73,8 @@ I am interested in a variety of topics, and building skills on :
     <img src="https://github.com/maitreverge/push_swap/blob/master/img/push_swap.png" alt="push_swap" width="30%">
   </a>
       </a>
-    <a href="https://github.com/maitreverge/cub3d">
-    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
+    <a href="https://github.com/maitreverge/cpp_42">
+    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cub3d" width="30%">
   </a>
 </div>
 
