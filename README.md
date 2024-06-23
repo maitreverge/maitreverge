@@ -78,11 +78,11 @@ I am interested in a variety of topics, and building skills on :
   </a>
 </div>
 
-🚀 [**More infos of those projects, regulary updated**](https://github.com/maitreverge/42_projects)
+🚀 [**More infos of all projects, regulary updated**](https://github.com/maitreverge/42_projects)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My related 42 project :
+## Ressources Repos :
 
 <div align="center">
   <a href="https://github.com/maitreverge/minishell_101">
