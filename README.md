@@ -96,6 +96,6 @@ I am interested in a variety of topics, and building skills on :
 ## Connect with Me
 
 - 🧑‍💻 [**LinkedIn, not available yet**]((https://github.com/maitreverge))
-- 🌶️ [**My OnlyFans**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🌶️ [**My OnlyFans**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1)
 
 Feel free to explore my repositories and connect with me! 😊
