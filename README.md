@@ -98,7 +98,7 @@ I am interested in a variety of topics, and building skills on :
 
 ## Connect with Me
 
-- 🧑‍💻 [**LinkedIn**]((www.linkedin.com/in/florianverge))
+- 🧑‍💻 [**LinkedIn**]((https://www.linkedin.com/in/florianverge))
 - 🌶️ [**My OnlyFans**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1)
 
 Feel free to explore my repositories and connect with me! 😊
