@@ -49,9 +49,9 @@ I am interested in a variety of topics, and building skills on :
 
 <br>
 
-> Programing languages : Learning Python.
->
 > Tools : Learning Docker fundamentals.
+>
+> Programing languages : Learning Python.
 >
 > SQL : Developping basic Databases knowledge with SQLite.
 
