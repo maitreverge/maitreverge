@@ -22,10 +22,10 @@ I am interested in a variety of topics, and building skills on :
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Current Skills && Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 <br>
 
-> Programing languages : Getting by with C.
+> Programing languages : Getting by with C and C++.
 > 
 </br>
 
@@ -45,11 +45,13 @@ I am interested in a variety of topics, and building skills on :
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,sqlite)](https://skillicons.dev)
 
 <br>
 
-> Programing languages : Learning Python and C++ basics.
+> Programing languages : Learning Python.
+>
+> Tools : Learning Docker fundamentals.
 >
 > SQL : Developping basic Databases knowledge with SQLite.
 
