@@ -63,18 +63,18 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My Mains Common Core 42 Projects :
+## My Last Common Core 42 Projects :
 
 <div align="center">
-  <a href="https://github.com/maitreverge/minishell">
-    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
+  <a href="https://github.com/maitreverge/cub3d">
+    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
   </a>
- <a href="https://github.com/maitreverge/push_swap">
-    <img src="https://github.com/maitreverge/push_swap/blob/master/img/push_swap.png" alt="push_swap" width="30%">
+ <a href="https://github.com/maitreverge/cpp_42">
+    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="30%">
   </a>
       </a>
-    <a href="https://github.com/maitreverge/cpp_42">
-    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cub3d" width="30%">
+    <a href="https://github.com/maitreverge/inception">
+    <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
 </div>
 
@@ -82,7 +82,7 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Ressources Repos :
+## Others 42 Related Repos :
 
 <div align="center">
   <a href="https://github.com/maitreverge/minishell_101">
