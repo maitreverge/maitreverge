@@ -65,18 +65,26 @@ I am interested in a variety of topics, and building skills on :
 
 ## My Last Common Core 42 Projects :
 
-<div align="center">
-  <a href="https://github.com/maitreverge/cub3d">
-    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
-  </a>
- <a href="https://github.com/maitreverge/cpp_42">
-    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="30%">
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/maitreverge/cub3d">
+        <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="100%">
       </a>
-    <a href="https://github.com/maitreverge/inception">
-    <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
-  </a>
-</div>
+    </td>
+    <td>
+      <a href="https://github.com/maitreverge/cpp_42">
+        <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maitreverge/inception">
+        <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 🚀 [**More infos of all projects, regulary updated**](https://github.com/maitreverge/42_projects)
 
@@ -84,17 +92,26 @@ I am interested in a variety of topics, and building skills on :
 
 ## Others 42 Related Repos :
 
-<div align="center">
-  <a href="https://github.com/maitreverge/minishell_101">
-    <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%">
-  </a>
-  <a href="https://github.com/maitreverge/github_readme">
-    <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
-  </a>
-  <a href="https://github.com/maitreverge/worst_hello_world">
-    <img src="https://github.com/maitreverge/worst_hello_world/blob/master/img/whw.png" alt="worst_hello_world" width="30%">
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/maitreverge/minishell_101">
+        <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maitreverge/github_readme">
+        <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/maitreverge/worst_hello_world">
+        <img src="https://github.com/maitreverge/worst_hello_world/blob/master/img/whw.png" alt="worst_hello_world" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
