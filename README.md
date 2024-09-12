@@ -95,8 +95,8 @@ I am interested in a variety of topics, and building skills on :
 <table>
   <tr>
     <td>
-      <a href="https://github.com/maitreverge/minishell_101">
-        <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="100%">
+      <a href="https://github.com/maitreverge/pointers_in_C">
+      <img src="https://github.com/maitreverge/pointers_in_C/blob/master/img/spider.png" alt="worst_hello_world" width="100%">
       </a>
     </td>
     <td>
@@ -107,6 +107,13 @@ I am interested in a variety of topics, and building skills on :
     <td>
       <a href="https://github.com/maitreverge/worst_hello_world">
         <img src="https://github.com/maitreverge/worst_hello_world/blob/master/img/whw.png" alt="worst_hello_world" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://github.com/maitreverge/minishell_101">
+        <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="100%">
       </a>
     </td>
   </tr>
