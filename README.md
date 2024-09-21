@@ -43,13 +43,13 @@ I am interested in a variety of topics, and building skills on :
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=docker,python,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,rust,python,sqlite)](https://skillicons.dev)
 
 <br>
 
 > Tools : Learning Docker fundamentals.
 >
-> Programing languages : Learning Python.
+> Programing languages : Learning Rust and Python basics.
 >
 > SQL : Developping basic Databases knowledge with SQLite.
 
