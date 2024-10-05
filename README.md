@@ -65,8 +65,8 @@ I am interested in a variety of topics, and building skills on :
 
 ## My Last Common Core 42 Projects :
 <div align="center">
-  <a href="https://github.com/maitreverge/cub3d">
-    <img src="https://github.com/maitreverge/cub3d/blob/master/img/cub3d.png" alt="cub3d" width="30%">
+  <a href="https://github.com/maitreverge/pipex">
+    <img src="https://github.com/maitreverge/pipex/blob/master/img/pipex.png" alt="pipex" width="30%">
   </a>
   <a href="https://github.com/maitreverge/cpp_42">
     <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="30%">
