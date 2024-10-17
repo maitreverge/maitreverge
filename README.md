@@ -20,14 +20,14 @@ I am interested in a variety of topics, and building skills on :
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Current Skills && Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp&theme=light)
 <br>
 
 > Programing languages : Getting by with C and C++.
 > 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,git)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light)
 <br>
 
 > Tools && IDEs : VS Code as main IDE, at ease using VIM.
@@ -35,15 +35,15 @@ I am interested in a variety of topics, and building skills on :
 > Git : Confortable using basics and advanced commands..
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=markdown,ableton)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=markdown,miro,github&theme=light)
 <br>
 
-> Others : I am getting by with MarkDown, and I've been an Ableton user for several years.
+> Others : I am confortable using MarkDown, Miro, Github
 </br>
 
 ## 🧠 Actual Learning
 
-[![My Skills](https://skillicons.dev/icons?i=docker,rust,sqlite)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,rust,sqlite&theme=light)
 
 <br>
 
