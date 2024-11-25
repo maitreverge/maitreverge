@@ -5,16 +5,6 @@
 
 I'm a Computer Science student at [42](https://42.fr).
 
-<!--- <div align=center>
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clppvo4x5190601t6rwfyn6u9/stats?cursusId=21&coalitionId=318" alt="flverge's 42 stats" /></a>
-</div> --->
-
-<div align=center>
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/flverge?1337Badge=off&UM6P=off" alt="flverge's 42 stats" /></a>
-</div>
-
-
-
 I am interested in a variety of topics, and building skills on : 
 - C++, SQL and Rust.
 
