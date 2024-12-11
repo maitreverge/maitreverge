@@ -93,6 +93,6 @@ I am interested in a variety of topics, and building skills on :
 ## Connect with Me
 
 - 🧑‍💻 [**LinkedIn**](https://www.linkedin.com/in/florianverge)
-- 🌶️ [**My OnlyFans**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1)
+- 🌶️ [**My OnlyFans**](https://rickroll.it/rickroll.mp4)
 
 Feel free to explore my repositories and connect with me! 😊
