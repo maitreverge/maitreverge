@@ -73,17 +73,20 @@ I am interested in a variety of topics, and building skills on :
 ## Others 42 Related Repos :
 
 <div align="center">
+    <a href="https://github.com/maitreverge/supercharged_libft">
+    <img src="https://github.com/maitreverge/supercharged_libft/blob/master/img/sc_libft.png" alt="supercharged_libft" width="30%"> 
+  </a>
+  <a href="https://github.com/maitreverge/minishell_101">
+    <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%"> 
+  </a>
   <a href="https://github.com/maitreverge/github_readme">
     <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
   <a href="https://github.com/maitreverge/pointers_in_C">
-    <img src="https://github.com/maitreverge/pointers_in_C/blob/master/img/spider.png" alt="worst_hello_world" width="33%">
+    <img src="https://github.com/maitreverge/pointers_in_C/blob/master/img/spider.png" alt="pointers_in_c" width="33%">
   </a>
   </a>
   <a href="https://github.com/maitreverge/worst_hello_world">
     <img src="https://github.com/maitreverge/worst_hello_world/blob/master/img/whw.png" alt="worst_hello_world" width="30%">
-  </a>
-  <a href="https://github.com/maitreverge/minishell_101">
-    <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%"> 
   </a>
 </div>
 
