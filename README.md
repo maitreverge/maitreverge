@@ -55,14 +55,14 @@ I am interested in a variety of topics, and building skills on :
 
 ## My Last Common Core 42 Projects :
 <div align="center">
-  <a href="https://github.com/maitreverge/cpp_42">
-    <img src="https://github.com/maitreverge/cpp_42/blob/master/img/cpp_42.png" alt="cpp_42" width="30%">
+  <a href="https://github.com/maitreverge/webserv">
+    <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
   </a>
   <a href="https://github.com/maitreverge/inception">
     <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
-  <a href="https://github.com/maitreverge/webserv">
-    <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
+  <a href="https://github.com/maitreverge/ft_transcendence">
+    <img src="https://github.com/maitreverge/ft_transcendence/blob/master/img/transcendence.jpg" alt="transendence" width="30%">
   </a>
 </div>
 <br>
