@@ -65,8 +65,9 @@ I am interested in a variety of topics, and building skills on :
     <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
   </a>
 </div>
+<br>
 
-🚀 [**More infos of all projects, regulary updated**](https://github.com/maitreverge/42_projects)
+🚀 [**More infos of 42 projects, regulary updated**](https://github.com/maitreverge/42_projects)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
