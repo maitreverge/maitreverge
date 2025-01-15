@@ -25,15 +25,15 @@ I am interested in a variety of topics, and building skills on :
 > Git : Confortable using basics and advanced commands..
 </br>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=markdown,miro,github&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=markdown,miro&theme=light)
 <br>
 
-> Others : I am confortable using MarkDown, Miro, Github
+> Others : I am confortable using MarkDown, Miro.
 </br>
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,rust,sqlite&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,rust,sqlite,html,css,django,postgresql&theme=light)
 
 <br>
 
@@ -41,7 +41,9 @@ I am interested in a variety of topics, and building skills on :
 >
 > Programing languages : Learning Rust basics.
 >
-> SQL : Developping basic Databases knowledge with SQLite.
+> Web : Learning HTML/CSS/Django.
+>
+> SQL : Developping basic Databases knowledge with SQLite and PostgreSQL
 
 </br>
 
