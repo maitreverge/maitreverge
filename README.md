@@ -73,7 +73,7 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Others 42 Related Repos :
+## Others Repos :
 
 <div align="center">
     <a href="https://github.com/maitreverge/supercharged_libft">
