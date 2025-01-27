@@ -84,12 +84,9 @@ I am interested in a variety of topics, and building skills on :
   </a>
   <a href="https://github.com/maitreverge/github_readme">
     <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
-  <a href="https://github.com/maitreverge/pointers_in_C">
-    <img src="https://github.com/maitreverge/pointers_in_C/blob/master/img/spider.png" alt="pointers_in_c" width="33%">
   </a>
-  </a>
-  <a href="https://github.com/maitreverge/worst_hello_world">
-    <img src="https://github.com/maitreverge/worst_hello_world/blob/master/img/whw.png" alt="worst_hello_world" width="30%">
+    <a href="https://github.com/maitreverge/CS50x">
+    <img src="https://github.com/maitreverge/CS50x/blob/master/img/cs50x.png" alt="cs50x" width="30%">
   </a>
 </div>
 
