@@ -17,7 +17,7 @@ I am interested in a variety of topics, and building skills on :
 > 
 </br>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light) 
 <br>
 
 > Tools && IDEs : VS Code as main IDE, at ease using VIM. 
