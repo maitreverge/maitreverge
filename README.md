@@ -20,7 +20,7 @@ I am interested in a variety of topics, and building skills on :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light)
 <br>
 
-> Tools && IDEs : VS Code as main IDE, at ease using VIM.
+> Tools && IDEs : VS Code as main IDE, at ease using VIM. 
 > 
 > Git : Confortable using basics and advanced commands..
 </br>
