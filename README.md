@@ -49,7 +49,7 @@ I am interested in a variety of topics, and building skills on :
 
 ## 🧑‍🎓 IT Certificates
 - [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
-- [🏗️ (ongoing) HarvardX CS50P: Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) ![100%](https://progress-bar.xyz/50)  <!--- 21/42 -- 2.38 per exercice-->
+- [🏗️ (ongoing) HarvardX CS50P: Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) ![100%](https://progress-bar.xyz/52)  <!--- 22/42 -- 2.38 per exercice-->
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
