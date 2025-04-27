@@ -63,7 +63,7 @@ I am interested in a variety of topics, and building skills on :
     <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
   <a href="https://github.com/dansylvain/ft_transcendence">
-    <img src="https://github.com/maitreverge/ft_transcendence/blob/master/img/transcendence.jpg" alt="transendence" width="30%">
+    <img src="https://github.com/maitreverge/ft_transcendence/blob/main/img/transcendence.jpg" alt="transendence" width="30%">
   </a>
 </div>
 <br>
