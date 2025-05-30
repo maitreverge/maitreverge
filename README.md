@@ -6,45 +6,39 @@
 I'm a Computer Science student at [42](https://42.fr).
 
 I am interested in a variety of topics, and building skills on : 
-- C++, SQL and Rust.
+- Python, databases and data science related topics.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Current Skills && Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp&theme=light)
-<br>
+### Programming Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=light)
+> Getting by with C and C++.
+> 
+> Currently specializing in Python.
+</br>
 
-> Programing languages : Getting by with C and C++.
+### Web
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,django&theme=light)
+> Basic knowledge of Web Programming and JS.
+> 
+> Django 101 aquired.
 > 
 </br>
 
+### IDE && VCS
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light) 
-<br>
-
-> Tools && IDEs : VS Code as main IDE, at ease using VIM. 
+> Visual Studio Code as main IDE. At ease with VIM.
 > 
-> Git : Confortable using basics and advanced commands..
-</br>
+> Fluent in GIT, both with GUI or CLI. 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=markdown,miro&theme=light)
-<br>
-
-> Others : I am confortable using MarkDown, Miro.
-</br>
+### Others
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light) 
+> Docker knowledge acquired on small infrastructures.
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,rust,sqlite,html,css,django,postgresql&theme=light)
-
-<br>
-
-> Tools : Learning Docker fundamentals.
->
-> Programing languages : Learning Rust basics.
->
-> Web : Learning HTML/CSS/Django.
->
-> SQL : Developping basic Databases knowledge with SQLite and PostgreSQL
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgres&theme=light)
+> Aquiring deeper skills in both Python and database management.
 </br>
 
 ## 🧑‍🎓 IT Certificates
