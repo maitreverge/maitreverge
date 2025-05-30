@@ -5,8 +5,12 @@
 
 I'm a Computer Science student at [42](https://42.fr).
 
-I am interested in a variety of topics, and building skills on : 
-- Python, databases and data science related topics.
+🚀 I successfully completed the core curriculum at 42 in May 2025 🚀
+
+Now focusing on building skills in:
+- Python
+- databases,
+- and data science-related topics.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
 
@@ -21,7 +25,7 @@ I am interested in a variety of topics, and building skills on :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,django&theme=light)
 > Basic knowledge of Web Programming and JS.
 > 
-> Django 101 aquired.
+> Django 101 acquired.
 > 
 </br>
 
@@ -48,7 +52,7 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My Last Common Core 42 Projects :
+## My Last 42 Projects :
 <div align="center">
   <a href="https://github.com/maitreverge/webserv">
     <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
@@ -56,15 +60,13 @@ I am interested in a variety of topics, and building skills on :
   <a href="https://github.com/maitreverge/inception">
     <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
-  <a href="https://github.com/dansylvain/ft_transcendence">
+  <a href="https://github.com/maitreverge/ft_transcendence">
     <img src="https://github.com/maitreverge/ft_transcendence/blob/main/img/transcendence.jpg" alt="transendence" width="30%">
   </a>
 </div>
 <br>
 
-🚀 [**More infos of 42 projects, regulary updated**](https://github.com/maitreverge/42_projects)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+🚀 [**More infos of 42 projects**](https://github.com/maitreverge/42_projects)
 
 ## Others Repos :
 
@@ -86,9 +88,9 @@ I am interested in a variety of topics, and building skills on :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Connect with Me
+## Connect with Me 📫
 
 - 🧑‍💻 [**LinkedIn**](https://www.linkedin.com/in/florianverge)
 - 🌶️ [**My OnlyFans**](https://rickroll.it/rickroll.mp4)
 
-Feel free to explore my repositories and connect with me! 😊
+Feel free to explore my repositories and connect with me! 🚀
