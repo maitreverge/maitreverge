@@ -52,13 +52,13 @@ Now focusing on building skills in:
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## My Last 42 Projects :
+## Main 42 Common Core Projects :
 <div align="center">
+  <a href="https://github.com/maitreverge/minishell">
+    <img src="https://github.com/maitreverge/minishell/blob/master/img/minishell.png" alt="minishell" width="30%">
+  </a>
   <a href="https://github.com/maitreverge/webserv">
     <img src="https://github.com/maitreverge/webserv/blob/master/img/webserv.png" alt="webserv" width="30%">
-  </a>
-  <a href="https://github.com/maitreverge/inception">
-    <img src="https://github.com/maitreverge/inception/blob/master/img/inception.png" alt="inception" width="30%">
   </a>
   <a href="https://github.com/maitreverge/ft_transcendence">
     <img src="https://github.com/maitreverge/ft_transcendence/blob/main/img/transcendence.jpg" alt="transendence" width="30%">
@@ -66,22 +66,27 @@ Now focusing on building skills in:
 </div>
 <br>
 
-🚀 [**More infos of 42 projects**](https://github.com/maitreverge/42_projects)
+📌 [**Summary of 42 Common Core projects**](https://github.com/maitreverge/42_projects)
+
+## 42 Advanced Projects :
+<div align="center">
+  <a href="https://github.com/maitreverge/python_for_data_science">
+    <img src="https://github.com/maitreverge/python_for_data_science/blob/master/_img/datascience.png" alt="python4datascience" width="30%">
+  </a>
+</div>
+
 
 ## Others Repos :
 
 <div align="center">
-    <a href="https://github.com/maitreverge/supercharged_libft">
-    <img src="https://github.com/maitreverge/supercharged_libft/blob/master/img/sc_libft.png" alt="supercharged_libft" width="30%"> 
-  </a>
   <a href="https://github.com/maitreverge/minishell_101">
     <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%"> 
   </a>
-  <a href="https://github.com/maitreverge/github_readme">
-    <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
-  </a>
     <a href="https://github.com/maitreverge/CS50x">
     <img src="https://github.com/maitreverge/CS50x/blob/master/img/cs50x.png" alt="cs50x" width="30%">
+  </a>
+  <a href="https://github.com/maitreverge/github_readme">
+    <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
   </a>
 </div>
 
