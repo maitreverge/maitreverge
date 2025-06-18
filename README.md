@@ -41,8 +41,8 @@ Now focusing on building skills in:
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgres&theme=light)
-> Aquiring deeper skills in both Python and database management.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy&theme=light)
+> Aquiring deeper skills in both Python and NumPy.
 </br>
 
 ## 🧑‍🎓 IT Certificates
