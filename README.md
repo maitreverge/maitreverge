@@ -12,8 +12,14 @@ Now focusing on building skills in:
 - databases,
 - and data science-related topics.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
 
+## 🧠 Actual Learning
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy&theme=light)
+> Aquiring deeper skills in both Python and NumPy.
+</br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
 ### Programming Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=light)
 > Getting by with C and C++.
@@ -38,12 +44,6 @@ Now focusing on building skills in:
 ### Others
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light) 
 > Docker knowledge acquired on small infrastructures.
-
-## 🧠 Actual Learning
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy&theme=light)
-> Aquiring deeper skills in both Python and NumPy.
-</br>
 
 ## 🧑‍🎓 IT Certificates
 - [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
