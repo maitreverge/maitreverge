@@ -96,6 +96,6 @@ Now focusing on building skills in:
 ## Connect with Me 📫
 
 - 🧑‍💻 [**LinkedIn**](https://www.linkedin.com/in/florianverge)
-- 🌶️ [**My OnlyFans**](https://rickroll.it/rickroll.mp4)
+- 🌶️ [**My OnlyFans**](https://shattereddisk.github.io/rickroll/rickroll.mp4)
 
 Feel free to explore my repositories and connect with me! 🚀
