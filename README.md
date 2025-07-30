@@ -47,7 +47,7 @@ Now focusing on building skills in:
 
 ## 🧑‍🎓 IT Certificates
 - [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
-- [🏗️ (ongoing) HarvardX CS50P: Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+- [✅ HarvardX CS50P: Introduction to Programming with Python](https://certificates.cs50.io/554d75a9-8e66-40cf-a592-163276552836.pdf?size=letter)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
