@@ -82,8 +82,8 @@ Now focusing on building skills in:
   <a href="https://github.com/maitreverge/minishell_101">
     <img src="https://github.com/maitreverge/minishell_101/blob/master/img/minishell_101.png" alt="minishell_101" width="30%"> 
   </a>
-    <a href="https://github.com/maitreverge/CS50x">
-    <img src="https://github.com/maitreverge/CS50x/blob/master/img/cs50x.png" alt="cs50x" width="30%">
+    <a href="https://github.com/maitreverge/gpt_panel">
+    <img src="https://github.com/maitreverge/gpt_panel/blob/master/img/gpt_panel.png" alt="cs50x" width="30%">
   </a>
   <a href="https://github.com/maitreverge/github_readme">
     <img src="https://github.com/maitreverge/github_readme/blob/master/img/github.png" alt="github_readme" width="30%">
