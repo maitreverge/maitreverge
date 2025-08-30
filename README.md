@@ -9,14 +9,13 @@ I'm a Computer Science student at [42](https://42.fr).
 
 Now focusing on building skills in:
 - Python
-- databases,
-- and data science-related topics.
+- JavaScript.
 
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas&theme=light)
-> Aquiring deeper skills in both NumPy and Pandas.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js&theme=light)
+> Aquiring deeper skills in JavaScript.
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
