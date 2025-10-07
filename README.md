@@ -14,8 +14,8 @@ Now focusing on building skills in:
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js&theme=light)
-> Aquiring deeper skills in JavaScript.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,react&theme=light)
+> Aquiring deeper skills in JavaScript and React.
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
