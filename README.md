@@ -5,17 +5,21 @@
 
 I'm a Computer Science student at [42](https://42.fr).
 
-🚀 I successfully completed the core curriculum at 42 in May 2025 🚀
+🚀 I successfully completed 42 Core Curriculum in May 2025 🚀
+
+🧑‍💼 I also recently completed a [**6 Months Internship**](https://www.linkedin.com/in/florianverge) 🧑‍💼
 
 Now focusing on building skills in:
-- Python
-- JavaScript.
+- Modern Web Framework
+- Better Back-End skills.
 
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,react&theme=light)
-> Aquiring deeper skills in JavaScript and React.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=svelte,js,rust&theme=light)
+> Aquiring better skills in Svelte Kit 5 and Vanilla JS
+>
+> Focusing now in Rust.
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
@@ -23,7 +27,7 @@ Now focusing on building skills in:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=light)
 > Getting by with C and C++.
 > 
-> Currently specializing in Python.
+> At ease with Python.
 </br>
 
 ### Web
@@ -34,15 +38,19 @@ Now focusing on building skills in:
 > 
 </br>
 
-### IDE && VCS
+### Tooling
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light) 
 > Visual Studio Code as main IDE. At ease with VIM.
 > 
-> Fluent in GIT, both with GUI or CLI. 
+> Fluent in GIT. 
 
 ### Others
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light) 
-> Docker knowledge acquired on small infrastructures.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,md&theme=light) 
+> Docker and `docker-compose` acquired on small to medium infrastructures.
+> 
+> Traefik as main reverse-proxy.
+>
+> Fluent in Markdown
 
 ## 🧑‍🎓 IT Certificates
 - [✅ HarvardX CS50: Introduction to Computer Science](https://courses.edx.org/certificates/3c23245bdf0142f3b892530c677d34bb)
