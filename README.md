@@ -80,6 +80,9 @@ Now focusing on building skills in:
   <a href="https://github.com/maitreverge/python_for_data_science">
     <img src="https://github.com/maitreverge/python_for_data_science/blob/master/_img/datascience.png" alt="python4datascience" width="30%">
   </a>
+    <a href="https://github.com/maitreverge/tokenizer">
+    <img src="https://github.com/maitreverge/tokenizer/blob/master/.img/tokenizer.png" alt="tokenizer" width="30%">
+  </a>
 </div>
 
 
