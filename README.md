@@ -16,10 +16,8 @@ Now focusing on building skills in:
 
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=svelte,js,rust&theme=light)
-> Aquiring better skills in Svelte Kit 5 and Vanilla JS
->
-> Focusing now in Rust.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=svelte,fastapi&theme=light)
+> Aquiring better skills in Svelte Kit 5 and FastAPI
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
