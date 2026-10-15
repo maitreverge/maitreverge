@@ -104,6 +104,6 @@ Now focusing on building skills in:
 ## Connect with Me 📫
 
 - 🧑‍💻 [**LinkedIn**](https://www.linkedin.com/in/florianverge)
-- 🌶️ [**My OnlyFans**](rickroll.gif)
+- 🌶️ [**My OnlyFans**](assets/rickroll.gif?raw=true)
 
 Feel free to explore my repositories and connect with me! 🚀
