@@ -9,15 +9,10 @@ I'm a Computer Science student at [42](https://42.fr).
 
 🧑‍💼 I also recently completed a [**6 Months Internship**](https://www.linkedin.com/in/florianverge) 🧑‍💼
 
-Now focusing on building skills in:
-- Modern Web Framework
-- Better Back-End skills.
-
-
 ## 🧠 Actual Learning
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=svelte,fastapi&theme=light)
-> Aquiring better skills in Svelte Kit 5 and FastAPI
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust&theme=light)
+> Aquiring better skills in Rust
 </br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">              Skills && Tools
@@ -79,7 +74,7 @@ Now focusing on building skills in:
     <img src="https://github.com/maitreverge/tokenizer/blob/master/.img/tokenizer.png" alt="tokenizer" width="30%">
   </a>
       <a href="https://github.com/maitreverge/tokenizeArt">
-    <img src="https://github.com/maitreverge/tokenizeArt/blob/master/.img/tokenizeart.png" alt="tokenizeArt" width="30%">
+    <img src="https://github.com/maitreverge/tokenizeArt/blob/master/.img/tokenizerart.png" alt="tokenizeArt" width="30%">
   </a>
 </div>
 
